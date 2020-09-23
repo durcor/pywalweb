@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           mywal
+@namespace      github.com/durcor/mywal
+@version        1.0.0
+@description    Pywal for the web
+@author         durcor
+==/UserStyle== */
+
+@-moz-document url-prefix("") {
+    * {
+        background: #281e21;
+        color: #fdffff;
+        border-color: #dfbf83 !important;
+    }
+}
