@@ -13,3 +13,8 @@ A CSS scheme which aims to bring ricing to the entire internet.
 # Installs the template file to wpg's template directory
 sh ./install.sh
 ```
+
+# Testing
+```sh
+sh ./install.sh test
+```
